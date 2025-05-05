@@ -60,5 +60,5 @@ This will generate an optimized build in the `.next` directory. You can then sta
 
 ## Project Structure & Documentation
 
-For details on the project structure, architecture, components, and how to modify content, please refer to the documentation in the `/docs` directory.
-```
+For details on the project structure, architecture, components, and how to modify content, please refer to the documentation in the `/docs` directory or [Wiki](https://github.com/krithiv-7/deskfolio-public/wiki).
+
